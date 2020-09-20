@@ -27,7 +27,7 @@ GOOGLE_API=
 ## Author
 
 [HelalSalem](https://github.com/HelalSalem).  
-Authored and maintained by SudhanPlayz.
+Authored and maintained by mEeeeeeeeeeeeeee.
 
 > GitHub [@HelalSalem](https://github.com/HelalSalem)
 # discord-music-bot
