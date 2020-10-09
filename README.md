@@ -26,8 +26,8 @@ GOOGLE_API=
 
 ## Author
 
-[HelalSalem](https://github.com/HelalSalem).  
-Authored and maintained by SudhanPlayz.
+[vDone-ai](https://github.com/vDone-ai).  
+Authored and maintained by Caker.
 
-> GitHub [@HelalSalem](https://github.com/HelalSalem)
+> GitHub [@vDone-ai](https://github.com/vDone-ai)
 # discord-music-bot
