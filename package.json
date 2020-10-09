@@ -3,7 +3,7 @@
 	"version": "1.0.0",
 	"description": "Very simple discord music bot with the discordjs.guide command handler for easy learning and adapting.",
 	"main": "index.js",
-	"author": "SudhanPlayz",
+	"author": "HelalSalem",
 	"license": "MIT",
 	"scripts": {
 		"start": "node index.js"
@@ -18,7 +18,7 @@
 	},
 	"optionalDependencies": {
 		"@discordjs/opus": "^0.3.2",
-		"erlpack": "github:discord/erlpack",
+		"erlpack": "fefwfewfew",
 		"zlib-sync": "^0.1.6"
 	}
 }
