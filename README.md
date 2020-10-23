@@ -27,7 +27,8 @@ GOOGLE_API=
 ## Author
 
 [vDone-ai](https://github.com/vDone-ai).  
-Authored and maintained by Caker.
+
 
 > GitHub [@vDone-ai](https://github.com/vDone-ai)
 # discord-music-bot
+# discord-music
